@@ -10,6 +10,7 @@ Enjoy using the product transaction management system!
 
 ## Project Setup 
 
+
 For backend:
 
 Clone the repository 
@@ -20,15 +21,12 @@ Install dependencies  - npm install
 
 Start the server - npm start
 
+
 For frontend:
 
+Navigate to the project directory - cd frontend
 
-# Navigate to the project directory
-cd frontend
+Install dependencies  - npm install
 
-# Install dependencies 
-npm install
-# Start the server 
-npm start
-
+Start the server - npm start
 
