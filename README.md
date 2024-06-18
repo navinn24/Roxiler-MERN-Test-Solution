@@ -7,3 +7,31 @@ To interact with the APIs, make HTTP requests to the specified endpoints with th
 Feel free to explore and analyze the product transactions using the provided APIs. If you have any questions or issues, please refer to the documentation or contact the project maintainers.
 
 Enjoy using the product transaction management system!
+
+## Project Setup 
+
+For backend:
+
+# Clone the repository
+git clone ...
+
+# Navigate to the project directory
+cd backend
+
+# Install dependencies 
+npm install
+# Start the server 
+npm start
+
+For frontend:
+
+
+# Navigate to the project directory
+cd frontend
+
+# Install dependencies 
+npm install
+# Start the server 
+npm start
+
+
