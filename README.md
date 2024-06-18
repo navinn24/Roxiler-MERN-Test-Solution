@@ -12,17 +12,13 @@ Enjoy using the product transaction management system!
 
 For backend:
 
-Clone the repository
-git clone ...
+Clone the repository 
 
-Navigate to the project directory
-cd backend
+Navigate to the project directory - cd backend
 
-Install dependencies 
-npm install
+Install dependencies  - npm install
 
-Start the server 
-npm start
+Start the server - npm start
 
 For frontend:
 
